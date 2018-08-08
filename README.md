@@ -27,10 +27,10 @@ See [here](https://grafana.com/plugins/grafana-simple-json-datasource/installati
 information.
 
 ### Example backend implementations
-- https://github.com/bergquist/fake-simple-json-datasource
-- https://github.com/smcquay/jsonds
-- https://github.com/ContextLogic/eventmaster
-- https://gist.github.com/linar-jether/95ff412f9d19fdf5e51293eb0c09b850 (Python/pandas backend)
+- [https://github.com/bergquist/fake-simple-json-datasource](https://github.com/bergquist/fake-simple-json-datasource)
+- [https://github.com/smcquay/jsonds](https://github.com/smcquay/jsonds)
+- [https://github.com/ContextLogic/eventmaster](https://github.com/ContextLogic/eventmaster)
+- [https://gist.github.com/linar-jether/95ff412f9d19fdf5e51293eb0c09b850](https://gist.github.com/linar-jether/95ff412f9d19fdf5e51293eb0c09b850) (Python/pandas backend)
 
 ### Query API
 
